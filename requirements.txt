@@ -4,3 +4,4 @@ streamlit
 pickle
 Pillow
 rdkit
+sklearn
