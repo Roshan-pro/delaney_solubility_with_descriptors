@@ -3,4 +3,6 @@ pandas
 streamlit
 Pillow
 rdkit
+scikit-learn
+
 
