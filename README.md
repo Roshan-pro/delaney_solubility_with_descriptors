@@ -33,13 +33,13 @@ To get started with the project, follow these steps:
    git clone https://github.com/Roshan-pro/delaney_solubility_with_descriptors.git
    cd delaney_solubility_with_descriptors
 2.Create a virtual environment and activate it:
-  '''sh 
-   python3 -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-3.Install the required dependencies:
-   '''sh
-   pip install -r requirements.txt
+python3 -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate`
 
+
+3.Install the required dependencies:
+      ```sh
+      pip install -r requirements.txt
 ## Usage
 After installing the dependencies, you can run the Jupyter notebooks to explore the data, build models, and make predictions.
 
