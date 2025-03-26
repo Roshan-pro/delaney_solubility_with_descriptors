@@ -53,19 +53,19 @@ After installing the dependencies, you can run the Jupyter notebooks to explore 
 
 
 ## Contributing
-We welcome contributions to the project. To contribute, follow these steps:
+We welcome contributions to the project. To contribute, follow these steps:<br>
 
-1.Fork the repository: Click the "Fork" button at the top right of this page.
-2.Clone your forked repository:
-  git clone https://github.com/your-username/delaney_solubility_with_descriptors.git
-3.Create a new branch:
-  git checkout -b feature/your-feature-name
-4.Make your changes and commit them:
-  git add .
-  git commit -m "Add new feature"
-5.Push to your forked repository:
-  git push origin feature/your-feature-name
-6.Create a pull request: Go to the original repository and create a pull request from your forked repository.
+1.Fork the repository: Click the "Fork" button at the top right of this page. <br>
+2.Clone your forked repository:<br>
+ - git clone https://github.com/your-username/delaney_solubility_with_descriptors.git
+3.Create a new branch:<br>
+ - git checkout -b feature/your-feature-name
+4.Make your changes and commit them:<br>
+   - git add .
+   - git commit -m "Add new feature"
+5.Push to your forked repository: <br>
+  - git push origin feature/your-feature-name
+6.Create a pull request: Go to the original repository and create a pull request from your forked repository.<br>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
