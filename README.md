@@ -33,17 +33,18 @@ To get started with the project, follow these steps:
    git clone https://github.com/Roshan-pro/delaney_solubility_with_descriptors.git
    cd delaney_solubility_with_descriptors
 2.Create a virtual environment and activate it:
-      python3 -m venv env
-      source env/bin/activate  # On Windows use `env\Scripts\activate`
+  '''sh 
+   python3 -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
 3.Install the required dependencies:
-        pip install -r requirements.txt
+   '''sh
+   pip install -r requirements.txt
 
-Usage
+## Usage
 After installing the dependencies, you can run the Jupyter notebooks to explore the data, build models, and make predictions.
 
 1.Start Jupyter Notebook:
-
-  jupyter notebook
+   jupyter notebook
 2.Open and run the notebooks:
 - 01_data_preprocessing.ipynb: Data cleaning and preprocessing.
 - 02_feature_engineering.ipynb: Calculation of molecular descriptors.
@@ -51,7 +52,7 @@ After installing the dependencies, you can run the Jupyter notebooks to explore 
 - 04_prediction.ipynb: Making predictions on new data.
 
 
-Contributing
+## Contributing
 We welcome contributions to the project. To contribute, follow these steps:
 
 1.Fork the repository: Click the "Fork" button at the top right of this page.
@@ -66,10 +67,10 @@ We welcome contributions to the project. To contribute, follow these steps:
   git push origin feature/your-feature-name
 6.Create a pull request: Go to the original repository and create a pull request from your forked repository.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 For any questions or inquiries, please contact:
 
 Roshan-pro: GitHub Profile
