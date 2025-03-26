@@ -1,11 +1,7 @@
 # delaney_solubility_with_descriptors
 Predict the logs value of molecular formula 
 ![solubility-logo](https://github.com/user-attachments/assets/1eeb8670-bd01-47c9-899c-9ecb71cea7a3)
-# Delaney Solubility with Descriptors
 
-Predict the logS value of molecular formulas using machine learning models.
-
-![solubility-logo](https://github.com/user-attachments/assets/1eeb8670-bd01-47c9-899c-9ecb71cea7a3)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -57,14 +53,14 @@ We welcome contributions to the project. To contribute, follow these steps:<br>
 
 1.Fork the repository: Click the "Fork" button at the top right of this page. <br>
 2.Clone your forked repository:<br>
- - git clone https://github.com/your-username/delaney_solubility_with_descriptors.git <br>
+       - git clone https://github.com/your-username/delaney_solubility_with_descriptors.git <br>
 3.Create a new branch:<br>
- - git checkout -b feature/your-feature-name <br>
+       - git checkout -b feature/your-feature-name <br>
 4.Make your changes and commit them:<br>
-   - git add .
-   - git commit -m "Add new feature"
+      - git add . <br>
+      - git commit -m "Add new feature" <br>
 5.Push to your forked repository: <br>
-  - git push origin feature/your-feature-name
+     - git push origin feature/your-feature-name <br>
 6.Create a pull request: Go to the original repository and create a pull request from your forked repository.<br>
 
 ## License
