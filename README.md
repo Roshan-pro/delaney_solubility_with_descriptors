@@ -57,9 +57,9 @@ We welcome contributions to the project. To contribute, follow these steps:<br>
 
 1.Fork the repository: Click the "Fork" button at the top right of this page. <br>
 2.Clone your forked repository:<br>
- - git clone https://github.com/your-username/delaney_solubility_with_descriptors.git
+ - git clone https://github.com/your-username/delaney_solubility_with_descriptors.git <br>
 3.Create a new branch:<br>
- - git checkout -b feature/your-feature-name
+ - git checkout -b feature/your-feature-name <br>
 4.Make your changes and commit them:<br>
    - git add .
    - git commit -m "Add new feature"
